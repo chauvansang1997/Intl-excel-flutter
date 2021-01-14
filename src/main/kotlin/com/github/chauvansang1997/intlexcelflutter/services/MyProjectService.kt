@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.chauvansang1997.intlexcelflutter.services
 
+import com.github.chauvansang1997.intlexcelflutter.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

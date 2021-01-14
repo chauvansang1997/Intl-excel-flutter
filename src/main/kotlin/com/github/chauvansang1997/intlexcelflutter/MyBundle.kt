@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.chauvansang1997.intlexcelflutter
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
